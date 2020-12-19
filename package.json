@@ -1,0 +1,18 @@
+{
+  "name": "dash-icons",
+  "version": "1.0.0",
+  "description": "Dash-App UI Icons",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dash-app/dash-icons.git"
+  },
+  "author": "Laica Lunasys <laica.lunasys@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dash-app/dash-icons/issues"
+  },
+  "homepage": "https://github.com/dash-app/dash-icons#readme"
+}
